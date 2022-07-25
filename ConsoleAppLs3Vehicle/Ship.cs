@@ -6,8 +6,7 @@ namespace ConsoleAppLs3Vehicle
     {
         private readonly string port;
         protected int passengerNumbers;
-        private string v;
-
+        
         public override void Show()
         {
             base.Show();
