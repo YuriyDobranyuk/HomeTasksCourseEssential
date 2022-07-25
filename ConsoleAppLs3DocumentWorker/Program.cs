@@ -12,6 +12,7 @@ namespace ConsoleAppLs3DocumentWorker
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
         }
     }
 }
