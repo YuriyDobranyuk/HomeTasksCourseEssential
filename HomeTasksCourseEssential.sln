@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppLs3ClassRoom", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppLs3Vehicle", "ConsoleAppLs3Vehicle\ConsoleAppLs3Vehicle.csproj", "{B1990DBD-F33B-4F34-A61E-E851BE19E9C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppLs3DocumentWorker", "ConsoleAppLs3DocumentWorker\ConsoleAppLs3DocumentWorker.csproj", "{6E493620-4E1D-4FB2-8D23-797C68A215A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppLs3DocumentWorker", "ConsoleAppLs3DocumentWorker\ConsoleAppLs3DocumentWorker.csproj", "{6E493620-4E1D-4FB2-8D23-797C68A215A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppLs4Document", "ConsoleAppLs4Document\ConsoleAppLs4Document.csproj", "{C1F311FA-666D-4598-BDE4-B13D2DCA623C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{6E493620-4E1D-4FB2-8D23-797C68A215A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E493620-4E1D-4FB2-8D23-797C68A215A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E493620-4E1D-4FB2-8D23-797C68A215A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F311FA-666D-4598-BDE4-B13D2DCA623C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F311FA-666D-4598-BDE4-B13D2DCA623C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F311FA-666D-4598-BDE4-B13D2DCA623C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F311FA-666D-4598-BDE4-B13D2DCA623C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
